@@ -1,4 +1,4 @@
 print() : displays text
 len() : length of string
 input() : allow's user to input a value
-int() : Integer
+int() : Interger
